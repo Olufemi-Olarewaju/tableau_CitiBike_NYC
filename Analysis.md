@@ -18,3 +18,6 @@
     Peak rental weekdays are Fridays and Saturdays.
 * Top 10 Start Stations: These are the top 10 stations in the city for starting a journey because they have the highest count of trips which commenced.
 * Top 10 Start Stations: These are the top 10 stations in the city for ending a journey because they have the highest count of trips which terminated.
+
+## Tableau Public Workbook
+* [Citi Bike Data Visualizations is deployed on this link via Tableau Public](https://public.tableau.com/app/profile/olufemi.olarewaju/viz/CitiBikeDataViz_17065424847240/OverallStory) 
